@@ -1,0 +1,4 @@
+repository "lab05@Seoony@cloud"
+  path "/"
+    br "/main"
+    co "/main"
